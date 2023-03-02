@@ -1,3 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+ background-image: url("https://images.all-free-download.com/images/graphicthumb/beautiful_ocean_maldives_516046.jpg");background-repeat: no repeat;
+ background-size: cover;
+}
+div {
+  height: 200px
+  width: 500px
+  Text-align: center;
+   font-family: "Arial", "Times New Roman", sans-serif;
+}
+</style>
+</head>
+<body>
+<h1>
+<b><i>Welcome to Ms. Rain's first web page!</i></b>
+</h1>
+
+
+
+<p>Join me on this journey, as I learn how to code and build websites!</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 BSD 3-Clause License
 
 Copyright (c) 2023, Krain8307
@@ -26,3 +64,6 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+</body>
+</html>
